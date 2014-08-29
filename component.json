@@ -1,0 +1,14 @@
+{
+  "name": "triplesec",
+  "repo": "jb55/triplesec",
+  "description": "Keybase triplesec",
+  "version": "0.0.1",
+  "keywords": ["hash"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "browser/triplesec.js"
+  ]
+}
