@@ -7,7 +7,7 @@
   "dependencies": {},
   "development": {},
   "license": "MIT",
-  "main": "broser/triplesec.js",
+  "main": "browser/triplesec.js",
   "scripts": [
     "browser/triplesec.js"
   ]
